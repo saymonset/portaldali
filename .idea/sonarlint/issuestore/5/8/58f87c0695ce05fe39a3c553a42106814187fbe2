@@ -1,0 +1,95 @@
+
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ø™
+p
+java:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ø™
+p
+java:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ø™
+p
+java:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ø™
+p
+java:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ø™
+p
+java:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ø™
+p
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ø™
+p
+java:S2293¨"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ø™
+p
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ñ¦Ò
+p
+java:S2293«"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬«‡Ä
+p
+java:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ñ¦Ò
+p
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ñ¦Ò
+p
+java:S2293õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ñ¦Ò
+p
+java:S2293‚"YReplace the type specification in this constructor call with the diamond operator ("<>").(î÷ç
+p
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ñ¦Ò
+p
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(î÷ç
+u
+java:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(á±®—ÿÿÿÿÿ
+u
+java:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(á±®—ÿÿÿÿÿ
+p
+java:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ø™
+u
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(á±®—ÿÿÿÿÿ
+o
+java:S2293Ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(²åüT
+u
+java:S2293Ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í¯ÿÿÿÿÿ
+p
+java:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÕÇ–Á
+c
+java:S1192‘"GDefine a constant instead of duplicating this literal "TODOS" 24 times.(ÙûıÔÿÿÿÿÿ
+r
+java:S1192É"VDefine a constant instead of duplicating this literal "Selecciona una Boveda" 3 times.( òÀéÿÿÿÿÿ
+N
+java:S2629Ä"7Use the built-in formatting to construct this argument.(ÌÄé©
+N
+java:S2589€	"7Remove this expression which always evaluates to "true"(ÔÊ††
+_
+java:S2583"CChange this condition so that it does not always evaluate to "true"(±‚çëÿÿÿÿÿ
+„
+java:S4144Ë"nUpdate this method so that its implementation is not identical to "getListaPlazoLiquidacionHoras" on line 822.(×ÑïP
+N
+java:S1135Ï"2Complete the task associated to this TODO comment.(–åù…üÿÿÿÿ
+I
+java:S1135æ"2Complete the task associated to this TODO comment.(Ù«Ìÿ
+I
+java:S1135Œ"2Complete the task associated to this TODO comment.(ÊšÎÄ
+I
+java:S1135¨"2Complete the task associated to this TODO comment.(Å ïö
+I
+java:S1135Ã"2Complete the task associated to this TODO comment.(Å ïö
+>
+java:S1905Ğ"'Remove this unnecessary cast to "long".(Úëëå
+I
+java:S1135ä"2Complete the task associated to this TODO comment.(µµ‰É
+H
+java:S1135ı"2Complete the task associated to this TODO comment.(¢ À 
+I
+java:S1135•"2Complete the task associated to this TODO comment.(ÊÆÒ
+I
+java:S1135Ö"2Complete the task associated to this TODO comment.(’ºğ‡
+Z
+java:S1155¾">Use isEmpty() to check whether the collection is empty or not.(ÃÄşÿÿÿÿ
+Z
+java:S1155ß">Use isEmpty() to check whether the collection is empty or not.(ÃÄşÿÿÿÿ
+Z
+java:S1155„">Use isEmpty() to check whether the collection is empty or not.(ÃÄşÿÿÿÿ
+F
+java:S1172•"/Remove this unused method parameter "idBoveda".(º°ôÛ
+Z
+java:S1155¡">Use isEmpty() to check whether the collection is empty or not.(ÃÄşÿÿÿÿ
+Z
+java:S1155»">Use isEmpty() to check whether the collection is empty or not.(ÃÄşÿÿÿÿ
+U
+java:S1854Ó"?Remove this useless assignment to local variable "institucion".(²åüT
+:
+java:S2129á"Remove this "Long" constructor(ƒ·´Ğøÿÿÿÿ

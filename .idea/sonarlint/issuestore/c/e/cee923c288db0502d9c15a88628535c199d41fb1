@@ -1,0 +1,18 @@
+
+HWeb:TableWithoutCaptionCheck&" Add a description to this table.(ºÂÿ
+:	Web:S5256&"%Add "<th>" headers to this "<table>".(ºÂÿ
+>	Web:S1827&")Remove this deprecated "width" attribute.(ºÂÿ
+D	Web:S1827&"/Remove this deprecated "cellpadding" attribute.(ºÂÿ
+D	Web:S1827&"/Remove this deprecated "cellspacing" attribute.(ºÂÿ
+I	Web:S1827H"/Remove this deprecated "frameborder" attribute.(äùÆËøÿÿÿÿ
+G	Web:S1827H"-Remove this deprecated "scrolling" attribute.(äùÆËøÿÿÿÿ
+XWeb:FrameWithoutTitleCheckH"-Add a "title" attribute to this <iframe> tag.(äùÆËøÿÿÿÿ
+C	Web:S1827I"/Remove this deprecated "frameborder" attribute.(¯‡ì(
+A	Web:S1827I"-Remove this deprecated "scrolling" attribute.(¯‡ì(
+RWeb:FrameWithoutTitleCheckI"-Add a "title" attribute to this <iframe> tag.(¯‡ì(
+HWeb:TableWithoutCaptionCheckK" Add a description to this table.(ºÂÿ
+:	Web:S5256K"%Add "<th>" headers to this "<table>".(ºÂÿ
+>	Web:S1827K")Remove this deprecated "width" attribute.(ºÂÿ
+D	Web:S1827K"/Remove this deprecated "cellpadding" attribute.(ºÂÿ
+D	Web:S1827K"/Remove this deprecated "cellspacing" attribute.(ºÂÿ
+IWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(–ªŸ´ûÿÿÿÿ

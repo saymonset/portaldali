@@ -1,0 +1,79 @@
+
+t
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(úÚ¼÷úÿÿÿÿ
+t
+java:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(Êã´úÿÿÿÿ
+t
+java:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø²ÃÁÿÿÿÿÿ
+|
+java:S2293õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(úÚ¼÷úÿÿÿÿ8«ü…´Â1
+|
+java:S2293ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(İº§öıÿÿÿÿ8«ü…´Â1
+|
+java:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø²ÃÁÿÿÿÿÿ8«ü…´Â1
+F
+java:S1066ß"/Merge this if statement with the enclosing one.(ª†Öœ
+M
+java:S1066ü"/Merge this if statement with the enclosing one.(ª†Öœ8­ü…´Â1
+?
+java:S1643æ"Use a StringBuilder instead.(àİÂìşÿÿÿÿ8¯ü…´Â1
+m
+java:S3776H"RRefactor this method to reduce its Cognitive Complexity from 75 to the 15 allowed.(Ö›½ßÿÿÿÿÿ
+]
+java:S1854è"FRemove this useless assignment to local variable "registrosContables".(üÄ£¹
+]
+java:S1854ç"ARemove this useless assignment to local variable "saldosFinales".(›‰´Äûÿÿÿÿ
+_
+java:S1854æ"CRemove this useless assignment to local variable "saldosIniciales".(®Èüæşÿÿÿÿ
+T
+java:S1155J">Use isEmpty() to check whether the collection is empty or not.(§ÿÑ®
+7
+java:S2111q"!Use "BigDecimal.valueOf" instead.(Ë•›…
+8
+java:S2111¨"!Use "BigDecimal.valueOf" instead.(Ôœƒ
+=
+java:S2111ª"!Use "BigDecimal.valueOf" instead.(ÇÏ‹ûÿÿÿÿ
+=
+java:S2111®"!Use "BigDecimal.valueOf" instead.(…ÈáØûÿÿÿÿ
+=
+java:S2111°"!Use "BigDecimal.valueOf" instead.(êÃ§Óøÿÿÿÿ
+o
+java:S3776ó"SRefactor this method to reduce its Cognitive Complexity from 119 to the 15 allowed.(Ë¬‹Çıÿÿÿÿ
+d
+java:S1854„"FRemove this useless assignment to local variable "registrosContables".(üÄ£¹8±€†´Â1
+d
+java:S1854ƒ"ARemove this useless assignment to local variable "saldosFinales".(›‰´Äûÿÿÿÿ8±€†´Â1
+f
+java:S1854‚"CRemove this useless assignment to local variable "saldosIniciales".(®Èüæşÿÿÿÿ8±€†´Â1
+\
+java:S1155ö">Use isEmpty() to check whether the collection is empty or not.(§ÿÑ®8²€†´Â1
+?
+java:S2111"!Use "BigDecimal.valueOf" instead.(Ë•›…8·€†´Â1
+?
+java:S2111×"!Use "BigDecimal.valueOf" instead.(Ôœƒ8»€†´Â1
+?
+java:S2111Ø"!Use "BigDecimal.valueOf" instead.(¿Øà¹8¼€†´Â1
+?
+java:S2111Ù"!Use "BigDecimal.valueOf" instead.(ï‘ƒ‚8¼€†´Â1
+D
+java:S2111Û"!Use "BigDecimal.valueOf" instead.(ÇÏ‹ûÿÿÿÿ8½€†´Â1
+D
+java:S2111Ü"!Use "BigDecimal.valueOf" instead.(½±úğúÿÿÿÿ8½€†´Â1
+D
+java:S2111İ"!Use "BigDecimal.valueOf" instead.(Üé¦Äıÿÿÿÿ8½€†´Â1
+D
+java:S2111á"!Use "BigDecimal.valueOf" instead.(…ÈáØûÿÿÿÿ8½€†´Â1
+D
+java:S2111â"!Use "BigDecimal.valueOf" instead.(®Ïª³şÿÿÿÿ8½€†´Â1
+?
+java:S2111ã"!Use "BigDecimal.valueOf" instead.(ŒËŒÕ8¾€†´Â1
+D
+java:S2111å"!Use "BigDecimal.valueOf" instead.(êÃ§Óøÿÿÿÿ8¾€†´Â1
+?
+java:S2111æ"!Use "BigDecimal.valueOf" instead.(…•¿õ8¾€†´Â1
+?
+java:S2111ç"!Use "BigDecimal.valueOf" instead.(Œë´¢8¾€†´Â1
+â
+java:S6541H"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 127 to 64, Complexity from 29 to 14, Nesting Level from 5 to 2, Number of Variables from 28 to 6.(Ö›½ßÿÿÿÿÿ
+ã
+java:S6541ó"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 237 to 64, Complexity from 38 to 14, Nesting Level from 7 to 2, Number of Variables from 32 to 6.(Ë¬‹Çıÿÿÿÿ

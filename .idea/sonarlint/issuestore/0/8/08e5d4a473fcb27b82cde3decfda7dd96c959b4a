@@ -1,0 +1,19 @@
+
+Q
+java:S3740N"/Provide the parametrized type for this generic.(ëœÁ—üÿÿÿÿ8é¸Ã´Â1
+{
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôøéíþÿÿÿÿ8ê¸Ã´Â1
+{
+java:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôøéíþÿÿÿÿ8ê¸Ã´Â1
+h
+java:S1192-"FDefine a constant instead of duplicating this literal "FROM " 4 times.(„„×Îýÿÿÿÿ8ê¸Ã´Â1
+Y
+java:S2629Q"7Use the built-in formatting to construct this argument.(ÄâÇÔúÿÿÿÿ8ë¸Ã´Â1
+Y
+java:S2629m"7Use the built-in formatting to construct this argument.(ÑÁÆ¬ûÿÿÿÿ8ë¸Ã´Â1
+Z
+java:S2629„"7Use the built-in formatting to construct this argument.(îÐŠùÿÿÿÿ8ë¸Ã´Â1
+R
+java:S2387""0"logger" is the name of a field in "DaoSupport".(Ê©üôúÿÿÿÿ8ý¸Ã´Â1
+\
+java:S1155…">Use isEmpty() to check whether the collection is empty or not.(±êþÔ8‡¹Ã´Â1

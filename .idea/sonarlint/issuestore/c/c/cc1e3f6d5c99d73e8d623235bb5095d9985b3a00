@@ -1,0 +1,15 @@
+
+Y
+java:S26298"7Use the built-in formatting to construct this argument.(Í¬•·üÿÿÿÿ8Üƒ„´Â1
+£
+java:S1186*"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“—”½øÿÿÿÿ8é²ûŠ¿1
+K
+java:S19055")Remove this unnecessary cast to "String".(­¯İ«ùÿÿÿÿ8…¼´Â1
+K
+java:S19056")Remove this unnecessary cast to "String".(ÆËŒÈşÿÿÿÿ8…¼´Â1
+K
+java:S19057")Remove this unnecessary cast to "String".(ÜÙı–ıÿÿÿÿ8…¼´Â1
+Z
+java:S2130<"8Use "Long.parseLong" for this string-to-long conversion.(Çí‚¬ıÿÿÿÿ8ï²ûŠ¿1
+U
+java:S2130>"8Use "Long.parseLong" for this string-to-long conversion.(èÜˆ8¿”ÿÁ1

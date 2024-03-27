@@ -1,0 +1,9 @@
+
+g
+java:S1206Æ"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã
+H
+java:S1948İ",Make "tipoRetiro" transient or serializable.(ÉÎ×½ûÿÿÿÿ
+A
+java:S1948ğ"*Make "tipoPago" transient or serializable.(Á¶Ä€
+R	java:S125ä"<This block of commented-out lines of code should be removed.(ªõ…•
+W	java:S125é"<This block of commented-out lines of code should be removed.(‡ÖÆ†şÿÿÿÿ

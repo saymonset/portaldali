@@ -1,0 +1,45 @@
+
+o
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(á“òÎ
+o
+java:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ÿä‚
+o
+java:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(æºÜ”
+p
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(á“òÎ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ÿä‚
+p
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(æºÜ”
+p
+java:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(á“òÎ
+\
+java:S11926"FDefine a constant instead of duplicating this literal "FROM " 4 times.(™ĞËİ
+w
+java:S1488`"aImmediately return this expression instead of assigning it to the temporary variable "divisaDTO".(íç†Ô
+u
+java:S1149o"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ßÃ¢„
+v
+java:S1149’"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ßÃ¢„
+{
+java:S1149µ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(º€Ìğşÿÿÿÿ
+U
+java:S1117@":Rename "divisa" which hides the field declared at line 43.(Çƒ‘¦şÿÿÿÿ
+B
+java:S1905v"'Remove this unnecessary cast to "List".(§ÉÒšøÿÿÿÿ
+V
+java:S1117":Rename "divisa" which hides the field declared at line 43.(Çƒ‘¦şÿÿÿÿ
+O
+java:S1172´"8Remove these unused method parameters "params", "tipos".(ÇÑŞû
+V
+java:S1117ã":Rename "divisa" which hides the field declared at line 43.(Çƒ‘¦şÿÿÿÿ
+U
+java:S1155ù">Use isEmpty() to check whether the collection is empty or not.(ãÛìğ
+Y
+java:S1128">Remove this unused import 'org.hibernate.type.BigIntegerType'.(áãÃ¹úÿÿÿÿ
+b
+java:S1128"LRemove this unused import 'com.indeval.portaldali.persistence.model.Boveda'.(ƒŒ¶ó
+k
+java:S1128"URemove this unused import 'com.indeval.portaldali.persistence.model.TipoInstruccion'.(´¹ÌÕ
+n
+java:S1128"SRemove this unused import 'com.indeval.portaldali.persistence.model.TipoOperacion'.( º›Ìüÿÿÿÿ

@@ -1,0 +1,11 @@
+
+o
+java:S1104"ZMake DIVISA_PESO_MX a static final constant or non-public and provide accessors if needed.( ’#
+I
+java:S1444"4Make this "public static DIVISA_PESO_MX" field final( ’#
+n
+java:S3008"YRename this field "DIVISA_PESO_MX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ’#
+k
+java:S1206w"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+_
+java:S4201y"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¥Åë³

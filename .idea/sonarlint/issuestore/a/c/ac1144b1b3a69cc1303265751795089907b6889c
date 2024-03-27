@@ -1,0 +1,151 @@
+
+t
+java:S2293t"YReplace the type specification in this constructor call with the diamond operator ("<>").(„Ñèºÿÿÿÿÿ
+n
+java:S2293x"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ñ	
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ²ƒ’
+o
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(òà§
+u
+java:S2293¦"YReplace the type specification in this constructor call with the diamond operator ("<>").(„’À»úÿÿÿÿ
+u
+java:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰ıò‚şÿÿÿÿ
+o
+java:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(«ã=
+o
+java:S2293à"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒÉ•H
+u
+java:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ö¿óùÿÿÿÿ
+p
+java:S2293ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ôØ
+p
+java:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(„ÀñÂ
+u
+java:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡šĞûÿÿÿÿ
+u
+java:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙÌß§ûÿÿÿÿ
+u
+java:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡šĞûÿÿÿÿ
+u
+java:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙÌß§ûÿÿÿÿ
+o
+java:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(Üİ›/
+p
+java:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ÌßÜ
+p
+java:S2293“
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(–ıßÃ
+u
+java:S2293Ü
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(á›»¹ÿÿÿÿÿ
+u
+java:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š˜µ¸şÿÿÿÿ
+u
+java:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(™À®Ÿşÿÿÿÿ
+u
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë¸Ş ıÿÿÿÿ
+p
+java:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ²ƒ’
+p
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü¶Ì­
+u
+java:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š˜µ¸şÿÿÿÿ
+u
+java:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(™À®Ÿşÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë¸Ş ıÿÿÿÿ
+u
+java:S2293²"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š˜µ¸şÿÿÿÿ
+u
+java:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(™À®Ÿşÿÿÿÿ
+u
+java:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë¸Ş ıÿÿÿÿ
+p
+java:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(½¬á¢
+]
+java:S1192Ü"FDefine a constant instead of duplicating this literal "TODOS" 8 times.(åœæí
+\
+java:S1192â"FDefine a constant instead of duplicating this literal "TODAS" 6 times.(Ú¤‘,
+_
+java:S1192†"HDefine a constant instead of duplicating this literal "count: " 4 times.(®Û®‘
+‡
+java:S1192‰"kDefine a constant instead of duplicating this literal "Solo puede seleccionar hasta %d registros." 3 times.(åÄéìüÿÿÿÿ
+N
+java:S2589Ø"7Remove this expression which always evaluates to "true"(ıù±´
+‡
+java:S4144¼"kUpdate this method so that its implementation is not identical to "getTipoLiquidacionDaliDAO" on line 1811.(âş±¸üÿÿÿÿ
+‚
+java:S4144Ä"kUpdate this method so that its implementation is not identical to "setTipoLiquidacionDaliDAO" on line 1815.(ããï‡
+V	java:S125W"<This block of commented-out lines of code should be removed.(Ù”ş•üÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(ø·š‚øÿÿÿÿ
+3
+java:S2153ê"Remove the boxing to "Long".(ğÉ‹
+>
+java:S1172«"(Remove this unused method parameter "e".(²ôZ
+I
+java:S1172±"2Remove this unused method parameter "actionEvent".(™ÖÃİ
+W	java:S125Î"<This block of commented-out lines of code should be removed.( ÀÙ×ıÿÿÿÿ
+I
+java:S1135Ô"2Complete the task associated to this TODO comment.(äª­¸
+W	java:S125ù"<This block of commented-out lines of code should be removed.(€ƒóíùÿÿÿÿ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(€ƒóíùÿÿÿÿ
+X
+java:S1854š"<Remove this useless assignment to local variable "tipoInst".(¡šĞûÿÿÿÿ
+T
+java:S1117œ"=Rename "criterio" which hides the field declared at line 137.(òÌ”‡
+N
+java:S1172Ò"2Remove this unused method parameter "actionEvent".(ëÇê‰üÿÿÿÿ
+@	java:S106Ú"+Replace this use of System.out by a logger.(õ‹
+N
+java:S1172ä"2Remove this unused method parameter "actionEvent".(É¾˜™ùÿÿÿÿ
+X
+java:S1854÷"<Remove this useless assignment to local variable "tipoInst".(¡šĞûÿÿÿÿ
+T
+java:S1117ú"=Rename "criterio" which hides the field declared at line 137.(òÌ”‡
+S
+java:S1854±"<Remove this useless assignment to local variable "lstEfecR".(™ÌßÜ
+Q
+java:S1854­";Remove this useless assignment to local variable "lstEfec".(Üİ›/
+R	java:S125¸"<This block of commented-out lines of code should be removed.(ö¼™Í
+R	java:S125Ä"<This block of commented-out lines of code should be removed.(ö¼™Í
+Z
+java:S1117Î"CRename "totalRegistros" which hides the field declared at line 160.(ÕóÈ
+c
+java:S1117Ü"LRename "checkAllAutorizaEnabled" which hides the field declared at line 200.(ØƒÕï
+f
+java:S1117İ"JRename "checkAllLiberaEnabled" which hides the field declared at line 201.(ÿÎˆ„üÿÿÿÿ
+C
+java:S1172ú",Remove this unused method parameter "event".(‹îÄ
+H
+java:S1172‘",Remove this unused method parameter "event".(ûÁÓ˜üÿÿÿÿ
+H
+java:S1172§",Remove this unused method parameter "event".(Óõ§ùùÿÿÿÿ
+C
+java:S1172Æ",Remove this unused method parameter "event".(×·¤ü
+R	java:S125‹
+"<This block of commented-out lines of code should be removed.( Óì†
+e
+java:S1871”"NThis branch's code block is the same as the block for the branch on line 1426.(§îì
+d
+java:S1871©"NThis branch's code block is the same as the block for the branch on line 1446.(¡€Åd
+V
+java:S1117à"?Rename "resultados" which hides the field declared at line 148.(Úäõ“
+=
+java:S2111å"!Use "BigDecimal.valueOf" instead.(åŞòÿÿÿÿÿ
+R	java:S125ë"<This block of commented-out lines of code should be removed.(ôùêá
+8
+java:S2111ñ"!Use "BigDecimal.valueOf" instead.(¼èÇ
+V
+java:S1117ÿ"?Rename "resultados" which hides the field declared at line 148.(ë€Ä†
+W	java:S125ş"<This block of commented-out lines of code should be removed.(À³æıûÿÿÿÿ
+=
+java:S2111…"!Use "BigDecimal.valueOf" instead.(ÖŒÛÃÿÿÿÿÿ
+=
+java:S2111Œ"!Use "BigDecimal.valueOf" instead.(ÖŒÛÃÿÿÿÿÿ
+W	java:S125£"<This block of commented-out lines of code should be removed.(èËÚßüÿÿÿÿ
+R	java:S125»"<This block of commented-out lines of code should be removed.(ø©›˜
+N
+java:S1172Ç"2Remove this unused method parameter "actionEvent".(ôÊ¥Æıÿÿÿÿ
+ã
+java:S6541Ï"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 144 to 64, Complexity from 30 to 14, Nesting Level from 4 to 2, Number of Variables from 24 to 6.(›Ÿ…¾øÿÿÿÿ

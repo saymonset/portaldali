@@ -1,0 +1,19 @@
+
+s
+java:S1104"]Make CUENTA_CONTROLADA a static final constant or non-public and provide accessors if needed.(±†å¾
+v
+java:S1104"[Make CUENTA_NOMBRADA a static final constant or non-public and provide accessors if needed.(ÔÌº¹úÿÿÿÿ
+M
+java:S1444"7Make this "public static CUENTA_CONTROLADA" field final(±†å¾
+P
+java:S1444"5Make this "public static CUENTA_NOMBRADA" field final(ÔÌº¹úÿÿÿÿ
+r
+java:S3008"\Rename this field "CUENTA_CONTROLADA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±†å¾
+u
+java:S3008"ZRename this field "CUENTA_NOMBRADA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÌº¹úÿÿÿÿ
+k
+java:S1206K"PThis class overrides "equals()" and should therefore also override "hashCode()".(Ý¢êÍýÿÿÿÿ
+d
+java:S4201M"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¥Æõìûÿÿÿÿ
+_
+java:S4201P"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¯Ï¦¹

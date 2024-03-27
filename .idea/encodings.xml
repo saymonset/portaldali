@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/dali_EAR/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dali_EAR/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dali_config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dali_config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dali_ejb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dali_ejb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dali_jsf_componentes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dali_jsf_componentes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dali_model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dali_model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dali_persistence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dali_persistence/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dali_seguridad_captcha_EJB/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dali_seguridad_captcha_EJB/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dali_seguridad_tags/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dali_seguridad_tags/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dali_servicios/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dali_servicios/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dali_serviciosimpl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dali_serviciosimpl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dali_webapp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dali_webapp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

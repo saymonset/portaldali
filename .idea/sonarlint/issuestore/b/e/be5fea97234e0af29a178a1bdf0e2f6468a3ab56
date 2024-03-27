@@ -1,0 +1,42 @@
+
+R
+java:S1066"/Merge this if statement with the enclosing one.(Šä¾Úıÿÿÿÿ8¤ÇÁıÁ1
+R
+java:S1066Ü"/Merge this if statement with the enclosing one.(×õüÓÿÿÿÿÿ8¥ÇÁıÁ1
+A
+java:S2629Z"$Invoke method(s) only conditionally.(°«µê8¨ÇÁıÁ1
+^
+java:S2259Z"AA "NullPointerException" could be thrown; "dto" is nullable here.(°«µê8¸ËÁıÁ1
+\
+java:S1118C":Add a private constructor to hide the implicit public one.(¡éÈÖûÿÿÿÿ8¾ËÁıÁ1
+o
+java:S3776u"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(œÍƒÌ8ÅËÁıÁ1
+Y	java:S125"<This block of commented-out lines of code should be removed.(ÑƒéÂ8ÆËÁıÁ1
+F	java:S108—")Either remove or fill this block of code.(”ı¾8ÉËÁıÁ1
+F	java:S108›")Either remove or fill this block of code.(”ı¾8ÊËÁıÁ1
+D	java:S131¬""Add a default case to this switch.(ñø´ûÿÿÿÿ8ÑËÁıÁ1
+p
+java:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(—À8ÕËÁıÁ1
+P
+java:S1172È"2Remove this unused method parameter "fechaActual".(µÃşú8ÖËÁıÁ1
+Y	java:S125Ï"<This block of commented-out lines of code should be removed.(ÑƒéÂ8×ËÁıÁ1
+F	java:S108å")Either remove or fill this block of code.(”ı¾8ÛËÁıÁ1
+F	java:S108é")Either remove or fill this block of code.(”ı¾8ÛËÁıÁ1
+D	java:S131ü""Add a default case to this switch.(ñø´ûÿÿÿÿ8İËÁıÁ1
+O
+java:S1135"2Complete the task associated to this TODO comment.(¦Ñƒ8ŞËÁıÁ1
+e
+java:S1126—"BReplace this if-then-else statement by a single method invocation.(öíÖıÿÿÿÿ8âËÁıÁ1
+Y	java:S125§"<This block of commented-out lines of code should be removed.(ÑƒéÂ8äËÁıÁ1
+Y	java:S125½"<This block of commented-out lines of code should be removed.(ÑƒéÂ8çËÁıÁ1
+Y	java:S125º"<This block of commented-out lines of code should be removed.(úÙõˆ8ùËÁıÁ1
+Y	java:S125Á"<This block of commented-out lines of code should be removed.(‡ñ›³8ûËÁıÁ1
+^	java:S125Î"<This block of commented-out lines of code should be removed.(íî†€şÿÿÿÿ8şËÁıÁ1
+Y	java:S125Õ"<This block of commented-out lines of code should be removed.(óñ‹­8ÿËÁıÁ1
+X	java:S125á"<This block of commented-out lines of code should be removed.(×´8€ÌÁıÁ1
+Y	java:S125Š"<This block of commented-out lines of code should be removed.(õ˜‚í8ƒÌÁıÁ1
+K	java:S108±")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8©ÌÁıÁ1
+ã
+java:S6541u"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 65 to 64, Complexity from 25 to 14, Nesting Level from 4 to 2, Number of Variables from 12 to 6.(œÍƒÌ8´ÌÁıÁ1
+ä
+java:S6541Æ"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 81 to 64, Complexity from 27 to 14, Nesting Level from 4 to 2, Number of Variables from 12 to 6.(—À8¶ÌÁıÁ1

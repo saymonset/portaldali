@@ -1,0 +1,311 @@
+
+v
+java:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(şÛÚD8ô„§ ¿1
+w
+java:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(Óû¶í8ö„§ ¿1
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(şÛÚD8ù„§ ¿1
+w
+java:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Óû¶í8ı„§ ¿1
+|
+java:S2293”'"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºÈÔ”ÿÿÿÿÿ8„…§ ¿1
+|
+java:S2293Š-"YReplace the type specification in this constructor call with the diamond operator ("<>").(©öıÿÿÿÿ8…§ ¿1
+w
+java:S2293›-"YReplace the type specification in this constructor call with the diamond operator ("<>").(€’ö 8“…§ ¿1
+i
+java:S1192Ì"FDefine a constant instead of duplicating this literal " POR " 4 times.(â–«Õúÿÿÿÿ8š…§ ¿1
+R
+java:S1066¢
+"/Merge this if statement with the enclosing one.(×õüÓÿÿÿÿÿ8«…§ ¿1
+R
+java:S1066ã
+"/Merge this if statement with the enclosing one.(×õüÓÿÿÿÿÿ8­…§ ¿1
+R
+java:S1066Æ"/Merge this if statement with the enclosing one.(×õüÓÿÿÿÿÿ8¯…§ ¿1
+R
+java:S1066ÿ"/Merge this if statement with the enclosing one.(×õüÓÿÿÿÿÿ8±…§ ¿1
+Z
+java:S2629ó"7Use the built-in formatting to construct this argument.(úİ—àüÿÿÿÿ8ú…§ ¿1
+U
+java:S2629ß "7Use the built-in formatting to construct this argument.(Š¦ûƒ8ÿ…§ ¿1
+}
+java:S1149È#"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(áÀÉ8“È§ ¿1
+X	java:S107Ş"<Method has 8 parameters, which is greater than 7 authorized.(¸¢ÆP8—È§ ¿1
+Y	java:S107š"<Method has 8 parameters, which is greater than 7 authorized.(ª³8˜È§ ¿1
+]
+java:S1118":Add a private constructor to hide the implicit public one.(ÔÿÅáüÿÿÿÿ8™È§ ¿1
+B
+java:S2129È"$Remove this "BigInteger" constructor( å­¾8…ö• ¿1
+G
+java:S2129É"$Remove this "BigInteger" constructor(²Ö©Èıÿÿÿÿ8†ö• ¿1
+^	java:S125Ê"<This block of commented-out lines of code should be removed.(“åö«ıÿÿÿÿ8ÌÈ§ ¿1
+Y	java:S125œ"<This block of commented-out lines of code should be removed.(Ğ¢Î¯8•ö• ¿1
+^	java:S125Ã"<This block of commented-out lines of code should be removed.(ŞËüÿÿÿÿ8ö• ¿1
+K	java:S108ê")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8îÈ§ ¿1
+^	java:S125¼"<This block of commented-out lines of code should be removed.(íî†€şÿÿÿÿ8üÈ§ ¿1
+^	java:S125Ã"<This block of commented-out lines of code should be removed.(—ñí¤ûÿÿÿÿ8ÿÈ§ ¿1
+K	java:S108Ë")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8•É§ ¿1
+p
+java:S3776‡
+"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(œÍƒÌ8ñÉ§ ¿1
+F	java:S108«
+")Either remove or fill this block of code.(”ı¾8ûÉ§ ¿1
+F	java:S108¯
+")Either remove or fill this block of code.(”ı¾8şÉ§ ¿1
+p
+java:S3776È
+"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(œÍƒÌ8Ê§ ¿1
+F	java:S108ì
+")Either remove or fill this block of code.(”ı¾8ŒÊ§ ¿1
+F	java:S108ğ
+")Either remove or fill this block of code.(”ı¾8Ê§ ¿1
+D	java:S131Œ""Add a default case to this switch.(ñø´ûÿÿÿÿ8˜Ê§ ¿1
+p
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(—À8©Ê§ ¿1
+F	java:S108Ï")Either remove or fill this block of code.(”ı¾8³Ê§ ¿1
+F	java:S108Ó")Either remove or fill this block of code.(”ı¾8·Ê§ ¿1
+p
+java:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(—À8ÓÊ§ ¿1
+P
+java:S1172î"2Remove this unused method parameter "fechaActual".(µÃşú8ÙÊ§ ¿1
+F	java:S108ˆ")Either remove or fill this block of code.(”ı¾8ãÊ§ ¿1
+F	java:S108Œ")Either remove or fill this block of code.(”ı¾8äÊ§ ¿1
+D	java:S131Ÿ""Add a default case to this switch.(ñø´ûÿÿÿÿ8éÊ§ ¿1
+O
+java:S1135²"2Complete the task associated to this TODO comment.(¦Ñƒ8ìÊ§ ¿1
+e
+java:S1126º"BReplace this if-then-else statement by a single method invocation.(öíÖıÿÿÿÿ8òÊ§ ¿1
+~
+java:S3923¼"[Remove this conditional structure or edit its code blocks so that they're not all the same.(•øÄøÿÿÿÿ8­Ë§ ¿1
+y
+java:S2159¼"VRemove this call to "equals"; comparisons between unrelated types always return false.(•øÄøÿÿÿÿ8±Ë§ ¿1
+~
+java:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(•øÄøÿÿÿÿ8¹Ë§ ¿1
+y
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(•øÄøÿÿÿÿ8»Ë§ ¿1
+u
+java:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.( …Š±úÿÿÿÿ8åË§ ¿1
+~
+java:S3923ã"[Remove this conditional structure or edit its code blocks so that they're not all the same.(”‘ßşÿÿÿÿ8éË§ ¿1
+y
+java:S2159ã"VRemove this call to "equals"; comparisons between unrelated types always return false.(”‘ßşÿÿÿÿ8ëË§ ¿1
+D	java:S131È""Add a default case to this switch.(ñø´ûÿÿÿÿ8øË§ ¿1
+U
+java:S1135ã"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ8ıË§ ¿1
+u
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.( …Š±úÿÿÿÿ8ËÎ§ ¿1
+~
+java:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(”‘ßşÿÿÿÿ8ÍÎ§ ¿1
+y
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(”‘ßşÿÿÿÿ8ÏÎ§ ¿1
+u
+java:S3776û"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.( …Š±úÿÿÿÿ8‚Ï§ ¿1
+~
+java:S3923‡"[Remove this conditional structure or edit its code blocks so that they're not all the same.(©¨äÿÿÿÿÿ8†Ï§ ¿1
+y
+java:S2159‡"VRemove this call to "equals"; comparisons between unrelated types always return false.(©¨äÿÿÿÿÿ8ˆÏ§ ¿1
+D	java:S131ß""Add a default case to this switch.(ñø´ûÿÿÿÿ8’Ï§ ¿1
+U
+java:S1135÷"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ8•Ï§ ¿1
+u
+java:S3776–"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.( …Š±úÿÿÿÿ8˜àÙ ¿1
+~
+java:S3923¡"[Remove this conditional structure or edit its code blocks so that they're not all the same.(©¨äÿÿÿÿÿ8šàÙ ¿1
+y
+java:S2159¡"VRemove this call to "equals"; comparisons between unrelated types always return false.(©¨äÿÿÿÿÿ8šàÙ ¿1
+>
+java:S2111"!Use "BigDecimal.valueOf" instead.(ñÉîl8¥Ï§ ¿1
+D
+java:S2111¡"!Use "BigDecimal.valueOf" instead.(ÀŸØİûÿÿÿÿ8©Ï§ ¿1
+Y	java:S125Ç"<This block of commented-out lines of code should be removed.(Ó™ìá8»Ï§ ¿1
+o
+java:S1858ó"L"getTipoLiquidacion" returns a string, there's no need to call "toString()".(ûŠ¯°ÿÿÿÿÿ8¿Ï§ ¿1
+k
+java:S1858õ"H"getNombreCorto" returns a string, there's no need to call "toString()".(¡àÊÎÿÿÿÿÿ8ÁÏ§ ¿1
+^	java:S125„"<This block of commented-out lines of code should be removed.(Ÿá“şÿÿÿÿÿ8ÑÏ§ ¿1
+p
+java:S3776Ş"SRefactor this method to reduce its Cognitive Complexity from 183 to the 15 allowed.(¸¢ÆP8ÉĞ§ ¿1
+Y	java:S125‡"<This block of commented-out lines of code should be removed.(Š¦£8ÙĞ§ ¿1
+Y	java:S125¤"<This block of commented-out lines of code should be removed.(Ê«ŸÎ8ŞĞ§ ¿1
+U
+java:S1135È"2Complete the task associated to this TODO comment.(ä¶–Ëüÿÿÿÿ8èĞ§ ¿1
+e
+java:S1126Î"BReplace this if-then-else statement by a single method invocation.(Î³áúøÿÿÿÿ8ëĞ§ ¿1
+d
+java:S2147€"FCombine this catch with the one at line 3453, which has the same body.(¯áè8ğĞ§ ¿1
+d
+java:S2147ƒ"FCombine this catch with the one at line 3456, which has the same body.(åşáÿ8óĞ§ ¿1
+i
+java:S2147†"FCombine this catch with the one at line 3459, which has the same body.(¼¯•¶ùÿÿÿÿ8øĞ§ ¿1
+v
+java:S2139ı"XEither log this exception and handle it, or rethrow it with some contextual information.(Å¡ß8ÿĞ§ ¿1
+v
+java:S2139€"XEither log this exception and handle it, or rethrow it with some contextual information.(¯áè8ˆÑ§ ¿1
+v
+java:S2139ƒ"XEither log this exception and handle it, or rethrow it with some contextual information.(åşáÿ8Ñ§ ¿1
+{
+java:S2139†"XEither log this exception and handle it, or rethrow it with some contextual information.(¼¯•¶ùÿÿÿÿ8‘Ñ§ ¿1
+d
+java:S2147­"FCombine this catch with the one at line 3498, which has the same body.(¯áè8’Ñ§ ¿1
+d
+java:S2147°"FCombine this catch with the one at line 3501, which has the same body.(åşáÿ8“Ñ§ ¿1
+i
+java:S2147³"FCombine this catch with the one at line 3504, which has the same body.(¼¯•¶ùÿÿÿÿ8—Ñ§ ¿1
+v
+java:S2139ª"XEither log this exception and handle it, or rethrow it with some contextual information.(Å¡ß8ŸÑ§ ¿1
+v
+java:S2139­"XEither log this exception and handle it, or rethrow it with some contextual information.(¯áè8¦Ñ§ ¿1
+v
+java:S2139°"XEither log this exception and handle it, or rethrow it with some contextual information.(åşáÿ8«Ñ§ ¿1
+{
+java:S2139³"XEither log this exception and handle it, or rethrow it with some contextual information.(¼¯•¶ùÿÿÿÿ8±Ñ§ ¿1
+d
+java:S2147ğ"FCombine this catch with the one at line 3565, which has the same body.(¯áè8¸Ñ§ ¿1
+d
+java:S2147ó"FCombine this catch with the one at line 3568, which has the same body.(åşáÿ8½Ñ§ ¿1
+i
+java:S2147ö"FCombine this catch with the one at line 3571, which has the same body.(¼¯•¶ùÿÿÿÿ8ÁÑ§ ¿1
+v
+java:S2139í"XEither log this exception and handle it, or rethrow it with some contextual information.(Å¡ß8ÈÑ§ ¿1
+v
+java:S2139ğ"XEither log this exception and handle it, or rethrow it with some contextual information.(¯áè8ÎÑ§ ¿1
+v
+java:S2139ó"XEither log this exception and handle it, or rethrow it with some contextual information.(åşáÿ8ÓÑ§ ¿1
+{
+java:S2139ö"XEither log this exception and handle it, or rethrow it with some contextual information.(¼¯•¶ùÿÿÿÿ8ÙÑ§ ¿1
+q
+java:S3776š"SRefactor this method to reduce its Cognitive Complexity from 205 to the 15 allowed.(ª³8ÔÒ§ ¿1
+Y	java:S125Ç"<This block of commented-out lines of code should be removed.(Š¦£8ÜÒ§ ¿1
+Y	java:S125æ"<This block of commented-out lines of code should be removed.(Ê«ŸÎ8àÒ§ ¿1
+U
+java:S1135Œ"2Complete the task associated to this TODO comment.(ä¶–Ëüÿÿÿÿ8æÒ§ ¿1
+e
+java:S1126’"BReplace this if-then-else statement by a single method invocation.(Î³áúøÿÿÿÿ8èÒ§ ¿1
+d
+java:S2147Â"FCombine this catch with the one at line 3775, which has the same body.(¯áè8êÒ§ ¿1
+d
+java:S2147Å"FCombine this catch with the one at line 3778, which has the same body.(åşáÿ8ëÒ§ ¿1
+i
+java:S2147È"FCombine this catch with the one at line 3781, which has the same body.(¼¯•¶ùÿÿÿÿ8ìÒ§ ¿1
+v
+java:S2139¿"XEither log this exception and handle it, or rethrow it with some contextual information.(Å¡ß8îÒ§ ¿1
+v
+java:S2139Â"XEither log this exception and handle it, or rethrow it with some contextual information.(¯áè8öÒ§ ¿1
+v
+java:S2139Å"XEither log this exception and handle it, or rethrow it with some contextual information.(åşáÿ8úÒ§ ¿1
+{
+java:S2139È"XEither log this exception and handle it, or rethrow it with some contextual information.(¼¯•¶ùÿÿÿÿ8€Ó§ ¿1
+d
+java:S2147ú"FCombine this catch with the one at line 3831, which has the same body.(¯áè8ƒÓ§ ¿1
+d
+java:S2147ı"FCombine this catch with the one at line 3834, which has the same body.(åşáÿ8‡Ó§ ¿1
+i
+java:S2147€"FCombine this catch with the one at line 3837, which has the same body.(¼¯•¶ùÿÿÿÿ8ŠÓ§ ¿1
+v
+java:S2139÷"XEither log this exception and handle it, or rethrow it with some contextual information.(Å¡ß8Ó§ ¿1
+v
+java:S2139ú"XEither log this exception and handle it, or rethrow it with some contextual information.(¯áè8Ó§ ¿1
+v
+java:S2139ı"XEither log this exception and handle it, or rethrow it with some contextual information.(åşáÿ8’Ó§ ¿1
+{
+java:S2139€"XEither log this exception and handle it, or rethrow it with some contextual information.(¼¯•¶ùÿÿÿÿ8“Ó§ ¿1
+d
+java:S2147½"FCombine this catch with the one at line 3898, which has the same body.(¯áè8•Ó§ ¿1
+d
+java:S2147À"FCombine this catch with the one at line 3901, which has the same body.(åşáÿ8–Ó§ ¿1
+i
+java:S2147Ã"FCombine this catch with the one at line 3904, which has the same body.(¼¯•¶ùÿÿÿÿ8–Ó§ ¿1
+v
+java:S2139º"XEither log this exception and handle it, or rethrow it with some contextual information.(Å¡ß8›Ó§ ¿1
+v
+java:S2139½"XEither log this exception and handle it, or rethrow it with some contextual information.(¯áè8œÓ§ ¿1
+v
+java:S2139À"XEither log this exception and handle it, or rethrow it with some contextual information.(åşáÿ8Ó§ ¿1
+{
+java:S2139Ã"XEither log this exception and handle it, or rethrow it with some contextual information.(¼¯•¶ùÿÿÿÿ8Ó§ ¿1
+p
+java:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(à‹«Ò8¦Ó§ ¿1
+A
+java:S2153û"Remove the boxing to "Double".(à—åıÿÿÿÿ8«Ó§ ¿1
+Y	java:S125Œ "<This block of commented-out lines of code should be removed.(éŒ‘Ú8­Ó§ ¿1
+U
+java:S1135¡ "2Complete the task associated to this TODO comment.(ä¶–Ëüÿÿÿÿ8¯Ó§ ¿1
+e
+java:S1126§ "BReplace this if-then-else statement by a single method invocation.(–¥„Ûşÿÿÿÿ8±Ó§ ¿1
+D	java:S131· ""Add a default case to this switch.(àèå´øÿÿÿÿ8·Ó§ ¿1
+D	java:S131à ""Add a default case to this switch.(ñø´ûÿÿÿÿ8ïàÙ ¿1
+u
+java:S3776‚!"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(œñíàùÿÿÿÿ8ÓÓ§ ¿1
+V
+java:S1172…!"3Remove this unused method parameter "participante".(”ŠÃ†øÿÿÿÿ8ÖÓ§ ¿1
+^	java:S125!"<This block of commented-out lines of code should be removed.(Úşíãøÿÿÿÿ8ÙÓ§ ¿1
+Y	java:S125¹!"<This block of commented-out lines of code should be removed.(ÙĞÊÄ8àÓ§ ¿1
+^	java:S125»!"<This block of commented-out lines of code should be removed.(šİ‚Èÿÿÿÿÿ8ãÓ§ ¿1
+Y	java:S125½!"<This block of commented-out lines of code should be removed.(Ë…—8æÓ§ ¿1
+^	java:S125¿!"<This block of commented-out lines of code should be removed.(üÅ­¸ÿÿÿÿÿ8çÓ§ ¿1
+Y	java:S125È!"<This block of commented-out lines of code should be removed.(Š¦£8ìÓ§ ¿1
+^	java:S125Ğ!"<This block of commented-out lines of code should be removed.(ïşÓûÿÿÿÿ8îÓ§ ¿1
+^	java:S125×!"<This block of commented-out lines of code should be removed.(Å«ÂÔûÿÿÿÿ8ğÓ§ ¿1
+^	java:S125Ú!"<This block of commented-out lines of code should be removed.(«çüÓùÿÿÿÿ8ñÓ§ ¿1
+Y	java:S125Ü!"<This block of commented-out lines of code should be removed.(Ê«ŸÎ8òÓ§ ¿1
+Y	java:S125ã!"<This block of commented-out lines of code should be removed.(­Â‡8ôÓ§ ¿1
+U
+java:S1135""2Complete the task associated to this TODO comment.(ä¶–Ëüÿÿÿÿ8úÓ§ ¿1
+e
+java:S1126‡""BReplace this if-then-else statement by a single method invocation.(Î³áúøÿÿÿÿ8ıÓ§ ¿1
+p
+java:S3776Ÿ""RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Š£¶¤8Ô§ ¿1
+^	java:S125¨""<This block of commented-out lines of code should be removed.(¼ì”’ÿÿÿÿÿ8’û• ¿1
+Y	java:S125“#"<This block of commented-out lines of code should be removed.(Ğç·¾8Ô§ ¿1
+^	java:S125­#"<This block of commented-out lines of code should be removed.(ª×¾²ıÿÿÿÿ8Ô§ ¿1
+G
+java:S2129Ç#"$Remove this "BigInteger" constructor(’‚˜…ùÿÿÿÿ8“Ô§ ¿1
+Y	java:S125Ë#"<This block of commented-out lines of code should be removed.(á¶Ú¬8•Ô§ ¿1
+^	java:S125Ş#"<This block of commented-out lines of code should be removed.(ÃÚôÓøÿÿÿÿ8—Ô§ ¿1
+G
+java:S2129å#"$Remove this "BigInteger" constructor(’‚˜…ùÿÿÿÿ8˜Ô§ ¿1
+Y	java:S125è#"<This block of commented-out lines of code should be removed.(ïÓˆñ8šÔ§ ¿1
+Y	java:S125ú#"<This block of commented-out lines of code should be removed.(µøı‚8œÔ§ ¿1
+U
+java:S1135‡$"2Complete the task associated to this TODO comment.(ä¶–Ëüÿÿÿÿ8Ô§ ¿1
+e
+java:S1126$"BReplace this if-then-else statement by a single method invocation.(–¥„Ûşÿÿÿÿ8 Ô§ ¿1
+u
+java:S3776§$"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(×¿¢ğûÿÿÿÿ8¤Ô§ ¿1
+^	java:S125î$"<This block of commented-out lines of code should be removed.(èĞÖşÿÿÿÿ8®Ô§ ¿1
+^	java:S125Ş%"<This block of commented-out lines of code should be removed.(ª×¾²ıÿÿÿÿ8´Ô§ ¿1
+Y	java:S125 &"<This block of commented-out lines of code should be removed.(äÕÃ–8¹Ô§ ¿1
+^	java:S125Ø&"<This block of commented-out lines of code should be removed.(Í·ÁÙüÿÿÿÿ8ÀÔ§ ¿1
+^	java:S125¤'"<This block of commented-out lines of code should be removed.(øş©Íüÿÿÿÿ8ÔÔ§ ¿1
+Y	java:S125©'"<This block of commented-out lines of code should be removed.(äÕÃ–8ÕÔ§ ¿1
+^	java:S125¼'"<This block of commented-out lines of code should be removed.(ÜŞ÷Äøÿÿÿÿ8×Ô§ ¿1
+X	java:S125‹("<This block of commented-out lines of code should be removed.(Š‰Ø28Ñû• ¿1
+Y	java:S125×("<This block of commented-out lines of code should be removed.(‡ñ›³8âÔ§ ¿1
+T
+java:S1172î("1Remove this unused method parameter "idTipoPago".(¶ÈÛÚøÿÿÿÿ8åÔ§ ¿1
+Y	java:S125È)"<This block of commented-out lines of code should be removed.(‡ñ›³8ëÔ§ ¿1
+Y	java:S125¾+"<This block of commented-out lines of code should be removed.(õ˜‚í8øÔ§ ¿1
+^	java:S125¾,"<This block of commented-out lines of code should be removed.(üŠƒüÿÿÿÿ8şÔ§ ¿1
+K	java:S108Á.")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8•Õ§ ¿1
+K	java:S108ş.")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8÷ó» ¿1
+K	java:S108È/")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8ı¾Û ¿1
+^	java:S125ö0"<This block of commented-out lines of code should be removed.(Íàáÿÿÿÿÿ8°Õ§ ¿1
+^	java:S125Š1"<This block of commented-out lines of code should be removed.(ÒÎ‘ãıÿÿÿÿ8³Õ§ ¿1
+^	java:S125¦1"<This block of commented-out lines of code should be removed.(ëé»¨şÿÿÿÿ8µÕ§ ¿1
+^	java:S125¸1"<This block of commented-out lines of code should be removed.(àãàîıÿÿÿÿ8·Õ§ ¿1
+~
+java:S1128P"\Remove this unused import 'com.indeval.portaldali.middleware.services.util.util.Constantes'.(³ùœçÿÿÿÿÿ8×«Ü ¿1
+ä
+java:S6541È
+"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 83 to 64, Complexity from 23 to 14, Nesting Level from 4 to 2, Number of Variables from 11 to 6.(œÍƒÌ8¿Õ§ ¿1
+ä
+java:S6541ì"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 79 to 64, Complexity from 26 to 14, Nesting Level from 4 to 2, Number of Variables from 12 to 6.(—À8¿Õ§ ¿1
+é
+java:S6541Ö"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 138 to 64, Complexity from 27 to 14, Nesting Level from 4 to 2, Number of Variables from 7 to 6.( …Š±úÿÿÿÿ8ÀÕ§ ¿1
+é
+java:S6541û"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 123 to 64, Complexity from 27 to 14, Nesting Level from 4 to 2, Number of Variables from 7 to 6.( …Š±úÿÿÿÿ8ÀÕ§ ¿1
+ä
+java:S6541Ş"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 276 to 64, Complexity from 64 to 14, Nesting Level from 7 to 2, Number of Variables from 34 to 6.(¸¢ÆP8ÁÕ§ ¿1
+å
+java:S6541š"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 292 to 64, Complexity from 67 to 14, Nesting Level from 9 to 2, Number of Variables from 34 to 6.(ª³8ÁÕ§ ¿1

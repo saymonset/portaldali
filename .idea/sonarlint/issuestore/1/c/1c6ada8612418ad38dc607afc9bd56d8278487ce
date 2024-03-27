@@ -1,0 +1,83 @@
+
+v
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ÿä‚8µ–ˆ³Â1
+v
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(æºÜ”8¶–ˆ³Â1
+w
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ÿä‚8÷­í·Â1
+w
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(æºÜ”8ø­í·Â1
+j
+java:S1192ƒ"LDefine a constant instead of duplicating this literal "INNER JOIN " 3 times.(±¼×â8ø­í·Â1
+e
+java:S1192Å"GDefine a constant instead of duplicating this literal "] :: " 19 times.(‘¨Ø•8ù­í·Â1
+{
+java:S1488û"]Immediately return this expression instead of assigning it to the temporary variable "query".(óü‡®8ú­í·Â1
+{
+java:S1488Ñ"]Immediately return this expression instead of assigning it to the temporary variable "query".(óü‡®8û­í·Â1
+~
+java:S1488ø"aImmediately return this expression instead of assigning it to the temporary variable "lstResult".(ˆ‡Ü 8û­í·Â1
+Y
+java:S26294"7Use the built-in formatting to construct this argument.(ÙËçüÿÿÿÿ8‡ñ»´Â1
+Z
+java:S2629½"7Use the built-in formatting to construct this argument.(ù§ö®şÿÿÿÿ8ü­í·Â1
+U
+java:S2629Ä"7Use the built-in formatting to construct this argument.(…‘ÍÏ8ü­í·Â1
+G
+java:S2629Ğ"$Invoke method(s) only conditionally.(Ô ¼®úÿÿÿÿ8ü­í·Â1
+G
+java:S2629â"$Invoke method(s) only conditionally.(õÙÉÌùÿÿÿÿ8ÿ­í·Â1
+G
+java:S2629Å"$Invoke method(s) only conditionally.(¢Û¤ªıÿÿÿÿ8€®í·Â1
+G
+java:S2629ë"$Invoke method(s) only conditionally.(¢Û¤ªıÿÿÿÿ8€®í·Â1
+U
+java:S2629"7Use the built-in formatting to construct this argument.(¢şÀŸ8€®í·Â1
+Z
+java:S2629¶"7Use the built-in formatting to construct this argument.(ÚÓ™Ùÿÿÿÿÿ8€®í·Â1
+B
+java:S2629¿"$Invoke method(s) only conditionally.(£ü±8€®í·Â1
+B
+java:S2629°"$Invoke method(s) only conditionally.(£ü±8®í·Â1
+B
+java:S2629Ï"$Invoke method(s) only conditionally.(£ü±8®í·Â1
+Z
+java:S2629ì"7Use the built-in formatting to construct this argument.(¹×µÜşÿÿÿÿ8®í·Â1
+T
+java:S2629õ"7Use the built-in formatting to construct this argument.(ğ‘åp8®í·Â1
+R
+java:S2387,"0"logger" is the name of a field in "DaoSupport".(Ãüışÿÿÿÿ8¾ò»´Â1
+|
+java:S11499"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(•üŠ¸8à˜ˆ³Â1
+}
+java:S1149‘"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(•üŠ¸8£¯í·Â1
+[
+java:S1155o">Use isEmpty() to check whether the collection is empty or not.(’Ñºª8«¯í·Â1
+X
+java:S2479•":Remove the non-escaped \u0009 character from this literal.(Œ¹»ù8¬¯í·Â1
+]
+java:S2479–":Remove the non-escaped \u0009 character from this literal.(ÚÎ¢àûÿÿÿÿ8¬¯í·Â1
+]
+java:S2479›":Remove the non-escaped \u0009 character from this literal.(ÿİ„¯ÿÿÿÿÿ8­¯í·Â1
+X
+java:S2479":Remove the non-escaped \u0009 character from this literal.(ÎŠß‘8ƒÙ³Â1
+]
+java:S2479":Remove the non-escaped \u0009 character from this literal.(ê˜•›ùÿÿÿÿ8ƒÙ³Â1
+]
+java:S2479 ":Remove the non-escaped \u0009 character from this literal.(êÒ¯Éúÿÿÿÿ8­¯í·Â1
+]
+java:S2479¢":Remove the non-escaped \u0009 character from this literal.(ÈÜ×¾ûÿÿÿÿ8­¯í·Â1
+\
+java:S1155®">Use isEmpty() to check whether the collection is empty or not.(’Ñºª8¯¯í·Â1
+T
+java:S1751ã"6Remove this "return" statement or make it conditional.(–Æ£°8±¯í·Â1
+y
+java:S2159Æ"VRemove this call to "equals"; comparisons between unrelated types always return false.(›êÊøÿÿÿÿ8Ì¯í·Â1
+y
+java:S2159Ç"VRemove this call to "equals"; comparisons between unrelated types always return false.(†½•ãûÿÿÿÿ8Ì¯í·Â1
+t
+java:S2159å"VRemove this call to "equals"; comparisons between unrelated types always return false.(·ÜØò8Î¯í·Â1
+t
+java:S2159æ"VRemove this call to "equals"; comparisons between unrelated types always return false.(ïÂ¹ö8Î¯í·Â1
+d	java:S107"BConstructor has 18 parameters, which is greater than 7 authorized.(÷ç…µúÿÿÿÿ8Ğ¯í·Â1
+_	java:S107İ"BConstructor has 24 parameters, which is greater than 7 authorized.(Ü½¹Ô8Ñ¯í·Â1

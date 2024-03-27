@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dali_EAR" />
+        <module name="dali_jsf_componentes" />
+        <module name="dali_seguridad_tags" />
+        <module name="dali_webapp" />
+        <module name="dali_seguridad_captcha_EJB" />
+        <module name="dali_persistence" />
+        <module name="dali_ejb" />
+        <module name="dali_servicios" />
+        <module name="dali_model" />
+        <module name="dali_serviciosimpl" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

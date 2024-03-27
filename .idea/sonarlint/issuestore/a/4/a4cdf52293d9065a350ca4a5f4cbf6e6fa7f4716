@@ -1,0 +1,162 @@
+
+Q
+java:S3740\"/Provide the parametrized type for this generic.(êï»½ùÿÿÿÿ8²Å´Â1
+L
+java:S3740ü"/Provide the parametrized type for this generic.(Š˜¤R8ØÅ´Â1
+L
+java:S3740“"/Provide the parametrized type for this generic.(Š˜¤R8ØÅ´Â1
+{
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(†ûàµÿÿÿÿÿ8³Å´Â1
+{
+java:S2293^"YReplace the type specification in this constructor call with the diamond operator ("<>").(»è×ıÿÿÿÿ8³Å´Â1
+v
+java:S2293v"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ÿä‚8³Å´Â1
+{
+java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆÿøŒùÿÿÿÿ8³Å´Â1
+|
+java:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÀìâŞÿÿÿÿÿ8µÅ´Â1
+w
+java:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ÿä‚8ØÅ´Â1
+|
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆÿøŒùÿÿÿÿ8ØÅ´Â1
+w
+java:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ÿä‚8ØÅ´Â1
+|
+java:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆÿøŒùÿÿÿÿ8ØÅ´Â1
+|
+java:S2293ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(çşÚñüÿÿÿÿ8ØÅ´Â1
+w
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ÿä‚8ØÅ´Â1
+|
+java:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆÿøŒùÿÿÿÿ8ØÅ´Â1
+w
+java:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ÿä‚8ØÅ´Â1
+|
+java:S2293»"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆÿøŒùÿÿÿÿ8ŸØÅ´Â1
+w
+java:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ÿä‚8ŸØÅ´Â1
+|
+java:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆÿøŒùÿÿÿÿ8ŸØÅ´Â1
+|
+java:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(çşÚñüÿÿÿÿ8ŸØÅ´Â1
+|
+java:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(çşÚñüÿÿÿÿ8ŸØÅ´Â1
+|
+java:S2293Û"YReplace the type specification in this constructor call with the diamond operator ("<>").(†ûàµÿÿÿÿÿ8ŸØÅ´Â1
+w
+java:S2293Ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(Çìæ´8ŸØÅ´Â1
+w
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ÿä‚8ŸØÅ´Â1
+|
+java:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆÿøŒùÿÿÿÿ8ŸØÅ´Â1
+w
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ÿä‚8ŸØÅ´Â1
+|
+java:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸Ğ°ƒúÿÿÿÿ8ŸØÅ´Â1
+|
+java:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆÿøŒùÿÿÿÿ8ŸØÅ´Â1
+w
+java:S2293à"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô“†Á8ŸØÅ´Â1
+|
+java:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(çşÚñüÿÿÿÿ8 ØÅ´Â1
+€
+java:S1192é"bDefine a constant instead of duplicating this literal "join fetch e.instrumento.mercado " 3 times.(¿Œ“…8 ØÅ´Â1
+c
+java:S1192y"FDefine a constant instead of duplicating this literal "FROM " 7 times.(ĞûÎş8µÅ´Â1
+x
+java:S1192é"ZDefine a constant instead of duplicating this literal "join fetch e.instrumento " 3 times.(¿Œ“…8 ØÅ´Â1
+y
+java:S1192ê"VDefine a constant instead of duplicating this literal "join fetch e.emisora " 3 times.(ØÛªùûÿÿÿÿ8 ØÅ´Â1
+y
+java:S1192»"VDefine a constant instead of duplicating this literal "SELECT COUNT(*) FROM " 3 times.(ñïÇıüÿÿÿÿ8 ØÅ´Â1
+…
+java:S1488÷"bImmediately return this expression instead of assigning it to the temporary variable "resultados".(¡ã¯Ìüÿÿÿÿ8·Å´Â1
+G
+java:S2629â"$Invoke method(s) only conditionally.(ï÷¡ûÿÿÿÿ8£ØÅ´Â1
+Z
+java:S2589œ"7Remove this expression which always evaluates to "true"(¶Şªòùÿÿÿÿ8ó‚Å´Â1
+R
+java:S23873"0"logger" is the name of a field in "DaoSupport".(Òí€œùÿÿÿÿ8õ‚Å´Â1
+
+java:S1149="_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(º€Ìğşÿÿÿÿ8÷‚Å´Â1
+|
+java:S1149u"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¾‚ôú8÷‚Å´Â1
+}
+java:S1149·"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¾‚ôú8áÚÅ´Â1
+}
+java:S1149å"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¾‚ôú8áÚÅ´Â1
+}
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¾‚ôú8áÚÅ´Â1
+}
+java:S1149¹"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¾‚ôú8áÚÅ´Â1
+}
+java:S1149ö"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¾‚ôú8áÚÅ´Â1
+}
+java:S1149®"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(×¬ÍŞ8áÚÅ´Â1
+}
+java:S1149Ú"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(×¬ÍŞ8áÚÅ´Â1
+}
+java:S1149ë"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(×¬ÍŞ8áÚÅ´Â1
+}
+java:S1149°"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(×¬ÍŞ8áÚÅ´Â1
+}
+java:S1149õ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(×¬ÍŞ8áÚÅ´Â1
+}
+java:S1149¨"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¾‚ôú8áÚÅ´Â1
+}
+java:S1149Û"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¾‚ôú8áÚÅ´Â1
+‚
+java:S1149Ü"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¯Æßàøÿÿÿÿ8áÚÅ´Â1
+\
+java:S2479z":Remove the non-escaped \u0009 character from this literal.(Ñí„úÿÿÿÿ8ƒÅ´Â1
+\
+java:S2479{":Remove the non-escaped \u0009 character from this literal.(ÕÉî¦øÿÿÿÿ8ƒÅ´Â1
+W
+java:S2479|":Remove the non-escaped \u0009 character from this literal.(ÈŒôŞ8ƒÅ´Â1
+W
+java:S2479}":Remove the non-escaped \u0009 character from this literal.(÷Ïµ´8ƒÅ´Â1
+W
+java:S2479~":Remove the non-escaped \u0009 character from this literal.(•¦Õ8ƒÅ´Â1
+X
+java:S2479€":Remove the non-escaped \u0009 character from this literal.(®Û×ì8ƒÅ´Â1
+X
+java:S2479•":Remove the non-escaped \u0009 character from this literal.(¨æ¿¥8„ƒÅ´Â1
+:
+java:S1116"Remove this empty statement.(ˆôÅâ8íÚÅ´Â1
+X
+java:S2479½":Remove the non-escaped \u0009 character from this literal.(®Û×ì8îÚÅ´Â1
+:
+java:S1116×"Remove this empty statement.(ˆôÅâ8ğÚÅ´Â1
+J
+java:S1905Ø"'Remove this unnecessary cast to "Long".(”ä˜şÿÿÿÿ8ğÚÅ´Â1
+:
+java:S1116ó"Remove this empty statement.(ˆôÅâ8òÚÅ´Â1
+:
+java:S1116ª"Remove this empty statement.(ˆôÅâ8ôÚÅ´Â1
+:
+java:S1116Ç"Remove this empty statement.(ˆôÅâ8öÚÅ´Â1
+B
+java:S2129á"$Remove this "BigInteger" constructor(Æ¦Ì8øÚÅ´Â1
+\
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(»ĞÙ8ùÚÅ´Â1
+^	java:S125Œ"<This block of commented-out lines of code should be removed.(÷½¶¾ùÿÿÿÿ8ûÚÅ´Â1
+p
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(çëı¦8üÚÅ´Â1
+U
+java:S1172­"7Remove these unused method parameters "alias", "tipos".(Æ‘»ñ8üÚÅ´Â1
+\
+java:S1155â">Use isEmpty() to check whether the collection is empty or not.(»ĞÙ8ÿÚÅ´Â1
+u
+java:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ø•ïÇûÿÿÿÿ8ÿÚÅ´Â1
+p
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ŒÉœö8‡ÛÅ´Â1
+^	java:S125ú"<This block of commented-out lines of code should be removed.(öéåÎıÿÿÿÿ8ÛÅ´Â1
+:
+java:S1116Å"Remove this empty statement.(ˆôÅâ8“ÛÅ´Â1
+Y	java:S125ì"<This block of commented-out lines of code should be removed.(±›Ë¨8—ÛÅ´Â1
+\
+java:S1854">Remove this useless assignment to local variable "emisionDTO".(ÑÜñß8«ƒÅ´Â1
+:
+java:S1116ÿ"Remove this empty statement.(ˆôÅâ8™ÛÅ´Â1
+^	java:S125‰"<This block of commented-out lines of code should be removed.(›¤Ìãûÿÿÿÿ8­ƒÅ´Â1
+X	java:S125–"<This block of commented-out lines of code should be removed.(Çª¡,8®ƒÅ´Â1
